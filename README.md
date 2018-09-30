@@ -1,3 +1,5 @@
+<img src="https://veron.tech/assets/images/favicon.png" alt="logo" width="80px" height="auto">
+
 # Lorem generator
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/VeronQ/lorem-generator/blob/master/LICENSE)
