@@ -1,12 +1,12 @@
 <img src="https://veron.tech/assets/images/favicon.png" alt="logo" width="80px" height="auto">
 
-# Lorem generator
+# Lipsum
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/VeronQ/lorem-generator/blob/master/LICENSE)
-[![Only 7 Kb](https://img.shields.io/badge/size-7.27%20kB-brightgreen.svg)](https://github.com/VeronQ/lorem-generator/blob/master/js/main.min.js)
-[![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0)](https://github.com/VeronQ/lorem-generator/releases)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/VeronQ/lipsum/blob/master/LICENSE)
+[![Only 7 Kb](https://img.shields.io/badge/size-7.27%20kB-brightgreen.svg)](https://github.com/VeronQ/lipsum/blob/master/js/main.min.js)
+[![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0)](https://github.com/VeronQ/lipsum/releases)
 
-Lorem generator is a lightweight and easy-to-use lorem generator, written in JavaScript.
+Lipsum is a lightweight and easy-to-use *lorem ipsum generator*, written in JavaScript.
 
 Demo: https://lorem.veron.tech/?w=50
 
@@ -15,12 +15,12 @@ Demo: https://lorem.veron.tech/?w=50
 #### Github
 
 ```sh
-$ git clone https://github.com/VeronQ/lorem-generator.git
+$ git clone https://github.com/VeronQ/lipsum.git
 ```
 
 #### CDN
 
-See https://cdn.jsdelivr.net/gh/VeronQ/lorem-generator@1.0/js/main.min.js
+See https://cdn.jsdelivr.net/gh/VeronQ/lipsum@1.0/js/main.min.js
 
 ## Usage
 
@@ -33,4 +33,4 @@ https://domain.com/?w=200
 * Default is **100 words**.
 
 ## License
-[MIT](https://github.com/VeronQ/lorem-generator/blob/master/LICENSE)
+[MIT](https://github.com/VeronQ/lipsum/blob/master/LICENSE)
